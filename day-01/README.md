@@ -1,58 +1,75 @@
-# 🚀 JavaScript Fundamentals & Counter App - Day 1
+JavaScript Practice – Day 1
 
-Welcome to **Day 1** of my JavaScript learning journey! Today's focus covered core programming fundamentals alongside building a functional Counter Application with a customized interactive interface.
+📘 Week 1 – JavaScript Fundamentals
 
----
+This repository contains my Day 1 JavaScript practice based on my learning roadmap.
 
-## 🎯 Today's Goals
-* Understand variables (`let`, `const`, `var`) and their scopes.
-* Identify and work with core JavaScript Data Types.
-* Apply Arithmetic, Assignment, Comparison, and Logical Operators.
-* Implement DOM manipulation and interactive event handling through a Counter App project.
+🎯 Topics Covered
 
----
+- JavaScript Introduction
+- Variables ("let", "const", "var")
+- Data Types
+- Operators
+- "console.log()"
+- "typeof"
 
-## 📚 Topics Covered
-1. **Introduction & Syntax**: Running JavaScript, browser console logging, and connecting scripts.
-2. **Variables**: Declaring and initializing variables using `let`, `const`, and `var`.
-3. **Data Types**: 
-   * Primitives: `String`, `Number`, `Boolean`, `Undefined`, `Null`
-   * Complex: `Object`, `Array`
-4. **Operators**:
-   * Arithmetic (`+`, `-`, `*`, `/`, `%`, `**`)
-   * Assignment (`=`, `+=`, `-=`)
-   * Comparison (`==`, `===`, `!=`, `!==`, `>`, `<`, `>=`, `<=`)
-   * Logical (`&&`, `||`, `!`)
+📚 Practice Exercises
 
----
+- Stored my name, age, and city in variables.
+- Performed addition, subtraction, multiplication, and division.
+- Compared "==" and "===".
+- Created and printed boolean values.
+- Used "typeof" to check different data types.
 
-## 💻 Projects & Practice Exercises
+🚀 Mini Challenge
 
-### 1. Fundamentals Practice (`day1-practice.js`)
-* Stored personal information (name, age, city) in variables and logged output.
-* Performed arithmetic calculations on numerical values.
-* Examined equality operators (`==` vs `===`) and data typing using `typeof`.
+Completed day1-practice.js with:
 
-### 2. Counter Application (`Counter App`)
-* **Overview**: Built a simple DOM-based counter application featuring increment, decrement, and reset mechanics connected to state variables and display rendering functions.
-* **UI Customization**: Intentionally customized the user interface and stylesheet parameters (`pointer-events: none;`, `cursor: not-allowed;`, and `opacity`) to evaluate element interactivity states and restrict click events.
+- 10 Variables
+- Examples of all major JavaScript data types
+- 10 Operator examples
+- Output displayed using "console.log()"
 
----
+💻 Mini Project – Counter App
 
-## 📂 Repository Structure
-```text
-js-practice/
-└── Day-1/
-    ├── day1-practice.js
-    ├── index.html
-    └── style.css
-```
+Started building a simple Counter App.
 
----
+Current Progress
 
-## ✅ End of Day Checklist
-- [x] Mastered variable declarations (`let`, `const`, `var`)
-- [x] Explored and categorized data types
-- [x] Tested and applied JavaScript operators
-- [x] Completed day-1 practice scripts and Counter App UI layout
-- [x] Pushed clean commit history to GitHub
+- Project setup completed
+- Basic HTML structure created
+- CSS layout added
+- JavaScript functions created:
+  - Increment
+  - Decrement
+  - Reset
+  - Update Display
+- Button functionality will be enabled in the next development step.
+
+🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+📂 Project Structure
+
+Day-1/
+├── day1-practice.js
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+🎯 Learning Goals
+
+- Understand JavaScript fundamentals.
+- Build a strong programming foundation.
+- Practice coding consistently.
+- Upload daily progress to GitHub.
+
+📅 Progress
+
+✅ Day 1 Completed
+
+More JavaScript practice and projects will be added as I continue my learning journey.
