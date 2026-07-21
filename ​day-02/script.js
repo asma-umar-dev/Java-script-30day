@@ -18,4 +18,4 @@ function reset() {
     updateDisplay();
 }
 
-updateDisplay():
+
