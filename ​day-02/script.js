@@ -1,4 +1,5 @@
-Function updateDisplay() {
+let count = 0;
+function updateDisplay() {
     document.getElementById("counter").innerText = count;
 }
 
@@ -17,4 +18,4 @@ function reset() {
     updateDisplay();
 }
 
-
+updateDisplay():
